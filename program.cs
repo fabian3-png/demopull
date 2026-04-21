@@ -5,7 +5,7 @@ class Animal
     
     static void respirar()
     {
-        Console.WriteLine("los animales respiran");
+        Console.WriteLine("los animales respiran ademas de eso");
         
     }
     public void accion()
