@@ -1,0 +1,15 @@
+/workspaces/demopull/bin/Debug/net10.0/demopull
+/workspaces/demopull/bin/Debug/net10.0/demopull.deps.json
+/workspaces/demopull/bin/Debug/net10.0/demopull.runtimeconfig.json
+/workspaces/demopull/bin/Debug/net10.0/demopull.dll
+/workspaces/demopull/bin/Debug/net10.0/demopull.pdb
+/workspaces/demopull/obj/Debug/net10.0/demopull.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/demopull/obj/Debug/net10.0/demopull.AssemblyInfoInputs.cache
+/workspaces/demopull/obj/Debug/net10.0/demopull.AssemblyInfo.cs
+/workspaces/demopull/obj/Debug/net10.0/demopull.csproj.CoreCompileInputs.cache
+/workspaces/demopull/obj/Debug/net10.0/demopull.sourcelink.json
+/workspaces/demopull/obj/Debug/net10.0/demopull.dll
+/workspaces/demopull/obj/Debug/net10.0/refint/demopull.dll
+/workspaces/demopull/obj/Debug/net10.0/demopull.pdb
+/workspaces/demopull/obj/Debug/net10.0/demopull.genruntimeconfig.cache
+/workspaces/demopull/obj/Debug/net10.0/ref/demopull.dll
